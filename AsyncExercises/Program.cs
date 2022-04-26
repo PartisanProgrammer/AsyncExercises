@@ -75,7 +75,7 @@ namespace DoNotEdit_1
             Thread.Sleep(2000);
             return new Path();
         }
-        static void Main()
+        static void sain()
         {
             int frameCount = 0;
             var stopWatch = Stopwatch.StartNew();

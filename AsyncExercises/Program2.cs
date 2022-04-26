@@ -219,7 +219,7 @@ namespace DoNotEdit_2
             public bool IsActivated { get; private set; }
         }
         
-        static void sain()
+        static void Main()
         {
             var oldScene = new Scene(true, true, "oldScene");
             var newScene = new Scene(false, false, "newScene");
