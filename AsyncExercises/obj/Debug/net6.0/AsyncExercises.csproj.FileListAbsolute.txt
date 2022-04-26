@@ -1,0 +1,15 @@
+C:\Projects\AsyncExercises\AsyncExercises\bin\Debug\net6.0\AsyncExercises.exe
+C:\Projects\AsyncExercises\AsyncExercises\bin\Debug\net6.0\AsyncExercises.deps.json
+C:\Projects\AsyncExercises\AsyncExercises\bin\Debug\net6.0\AsyncExercises.runtimeconfig.json
+C:\Projects\AsyncExercises\AsyncExercises\bin\Debug\net6.0\AsyncExercises.dll
+C:\Projects\AsyncExercises\AsyncExercises\bin\Debug\net6.0\ref\AsyncExercises.dll
+C:\Projects\AsyncExercises\AsyncExercises\bin\Debug\net6.0\AsyncExercises.pdb
+C:\Projects\AsyncExercises\AsyncExercises\obj\Debug\net6.0\AsyncExercises.csproj.AssemblyReference.cache
+C:\Projects\AsyncExercises\AsyncExercises\obj\Debug\net6.0\AsyncExercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\AsyncExercises\AsyncExercises\obj\Debug\net6.0\AsyncExercises.AssemblyInfoInputs.cache
+C:\Projects\AsyncExercises\AsyncExercises\obj\Debug\net6.0\AsyncExercises.AssemblyInfo.cs
+C:\Projects\AsyncExercises\AsyncExercises\obj\Debug\net6.0\AsyncExercises.csproj.CoreCompileInputs.cache
+C:\Projects\AsyncExercises\AsyncExercises\obj\Debug\net6.0\AsyncExercises.dll
+C:\Projects\AsyncExercises\AsyncExercises\obj\Debug\net6.0\ref\AsyncExercises.dll
+C:\Projects\AsyncExercises\AsyncExercises\obj\Debug\net6.0\AsyncExercises.pdb
+C:\Projects\AsyncExercises\AsyncExercises\obj\Debug\net6.0\AsyncExercises.genruntimeconfig.cache
